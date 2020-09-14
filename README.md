@@ -7,6 +7,8 @@ has seen an immense growth in the last decade playing a major role in the field 
 pervasive computing by detecting the activity performed by the user. Thus, accurate
 prediction of user activity can be valuable input to several applications like health
 monitoring systems, wellness and fit tracking, emergency communication systems etc.,
+
+
 Thus, the current research performs Human Activity Recognition using a Particle
 Swarm Optimization (PSO) based Convolutional Neural Network which converges
 faster and searches the best CNN architecture. Using PSO for the training process
