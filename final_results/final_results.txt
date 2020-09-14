@@ -1,0 +1,6 @@
+All gBest number of parameters: [2549719]
+All gBest test accuracies: [0.92568713]
+All running times: [2760.827569961548]
+Mean loss of all runs: 0.408192794910317
+Mean accuracy of all runs: 0.9256871342658997
+
